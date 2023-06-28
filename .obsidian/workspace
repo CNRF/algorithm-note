@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "b020af5f5fd89735",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c12dc71a38063af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "排序/选择排序.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4287072d72c296d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcd28e45e12e195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4a64af3adfcc94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3ad382223fc3b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a1e94f406c1dc4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f838a692f8c015af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c7780e1439614b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "排序/选择排序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3a51d0faee78a82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "排序/选择排序.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1d07e057956bd761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ecff86fcb04a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "排序/选择排序.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "4c12dc71a38063af",
+  "lastOpenFiles": [
+    "排序/冒泡排序.md",
+    "排序/插入排序.md",
+    "排序/二分查找.md",
+    "排序/选择排序.md",
+    "Template/算法模板.md",
+    "设置.md",
+    "Template/其他模板.md",
+    "算法/体系学习/01.选择排序.md",
+    "算法/体系学习/ArrayUtils.md",
+    "Java后端技术/操作系统/liunx/云服务重装系统安装docker/常见的docker 命令.md"
+  ]
+}

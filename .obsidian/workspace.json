@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "b020af5f5fd89735",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c8a4aecaf9b04e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c12dc71a38063af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "排序/二分查找大于等于指定值最左值.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4287072d72c296d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcd28e45e12e195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4a64af3adfcc94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3ad382223fc3b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03f9b57adc47c94b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a1e94f406c1dc4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f838a692f8c015af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c7780e1439614b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "排序/二分查找大于等于指定值最左值.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3a51d0faee78a82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "排序/二分查找大于等于指定值最左值.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1d07e057956bd761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ecff86fcb04a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "排序/二分查找大于等于指定值最左值.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "4c12dc71a38063af",
+  "lastOpenFiles": [
+    "排序/二分查找指定值.md",
+    "排序/插入排序.md",
+    "排序/二分查找大于等于指定值最左值.md",
+    "排序/二分查找指定值 (copy).md",
+    "排序/冒泡排序.md",
+    "排序/选择排序.md",
+    "排序/数组公共方法.md",
+    "排序/Untitled.md",
+    "src",
+    "algorithm.iml",
+    "异或运算",
+    "Template/算法模板.md",
+    "设置.md",
+    "Template/其他模板.md",
+    "算法/体系学习/01.选择排序.md",
+    "算法/体系学习/ArrayUtils.md",
+    "Java后端技术/操作系统/liunx/云服务重装系统安装docker/常见的docker 命令.md"
+  ]
+}
